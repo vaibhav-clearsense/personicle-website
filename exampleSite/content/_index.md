@@ -1,10 +1,10 @@
 ---
 # banner
 banner:
-  title: "Andromeda is the most intuitive way to prototype Designs"
-  button: "Get Premium Version"
-  button_link: "https://gethugothemes.com/products/andromeda/"
-  image: "images/banner-app.png"
+  title: "Personicle: Leverage your data to improve your health"
+  button: "Go to Personicle"
+  button_link: "https://personicle.herokuapp.com/"
+  image: "images/device-integration-image.png"
 
 
 # brands
@@ -27,8 +27,8 @@ brands_carousel:
 # features
 features:
   enable: true
-  subtitle: "Special Features"
-  title: "Elements to <br> get you started"
+  subtitle: "Features"
+  title: "Get started with Personicle"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
   features_blocks:
   - icon: "las la-lock"

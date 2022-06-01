@@ -1,12 +1,12 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/favicon.png"
+favicon = "images/personicle-favicon.png"
 # logo
-logo = "images/logo.svg"
+logo = "images/personicle-logo-transparent.svg"
 # use `x` with logo_width, example: "100x"
 logo_width = "240x"
 # logo text will only show when logo is missing.
-logo_text = "Andromeda"
+logo_text = "Personicle"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Themefisher"
@@ -16,7 +16,7 @@ image = "images/logo.png"                # this image will be used as fallback i
 footer_info = "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."
 
 # contact form action
-contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/xdobbvnb" # contact form works with https://formspree.io
 
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
@@ -25,7 +25,7 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 custom_script = ""
 
 # buy premium popup
-buy_premium_popup = true
+buy_premium_popup = false
 
 # Main Sections
 mainSections = ["blog"]
@@ -47,11 +47,11 @@ quality = 100
 # Preloader
 [preloader]
 enable = true
-preloader = "images/favicon.png" # use jpg, png, svg or gif format.
+preloader = "images/personicle-favicon.png" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = true
+enable = false
 label = "Buy Premium"
 link = "https://gethugothemes.com/products/andromeda/"
 
@@ -64,7 +64,7 @@ button = "I Accept"
 
 # call-to-action
 [cta]
-enable = true
+enable = false
 title = "Get Andromeda-Premium Now"
 content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
 button = "Download The Theme"
@@ -72,12 +72,12 @@ button_link = "https://gethugothemes.com/products/andromeda/"
 
 ############################# social site ########################
 [[social]]
-title = "Andromeda"
+title = "Personicle"
 icon = "lab la-facebook-f" # https://icons8.com/line-awesome
 link = "#!"
 
 [[social]]
-title = "AndromedaTweet"
+title = "PersonicleTweet"
 icon = "lab la-twitter"  # https://icons8.com/line-awesome
 link = "#!"
 
