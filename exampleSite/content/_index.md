@@ -11,17 +11,17 @@ banner:
 brands_carousel:
   enable: true
   brand_images:
-  - "images/brands/01-colored.png"
-  - "images/brands/02-colored.png"
-  - "images/brands/04-colored.png"
-  - "images/brands/03-colored.png"
-  - "images/brands/05-colored.png"
-  - "images/brands/06-colored.png"
-  - "images/brands/04-colored.png"
-  - "images/brands/02-colored.png"
-  - "images/brands/01-colored.png"
-  - "images/brands/06-colored.png"
-  - "images/brands/05-colored.png"
+  # - "images/brands/01-colored.png"
+  # - "images/brands/02-colored.png"
+  - "images/brands/brand-icon-google-fit.png"
+  - "images/brands/brand-icon-fitbit.png"
+  - "images/brands/brand-icon-oura.png"
+  # - "images/brands/06-colored.png"
+  # - "images/brands/04-colored.png"
+  # - "images/brands/02-colored.png"
+  # - "images/brands/01-colored.png"
+  # - "images/brands/06-colored.png"
+  # - "images/brands/05-colored.png"
 
 
 # features
@@ -29,26 +29,27 @@ features:
   enable: true
   subtitle: "Features"
   title: "Get started with Personicle"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  description: ""
   features_blocks:
-  - icon: "las la-lock"
-    title: "Updated Security"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-magnet"
-    title: "Magnetic Turning"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-tachometer-alt"
-    title: "Secured &amp; up-to-date"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-link"
-    title: "Instant Link Sharing"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    title: "Connect your data accounts"
+    content: "Easily connect your wearable device accounts using REST APIs."
   - icon: "las la-lock"
     title: "Updated Security"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    content: "Securely share your data with your care provider and contacts."
   - icon: "las la-magnet"
     title: "Magnetic Turning"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    content: "Segment your day in daily life events"
+  - icon: "las la-tachometer-alt"
+    title: "Secured &amp; up-to-date data"
+    content: "Access all your data in one place, passively collected and updated"
+  
+  - icon: "las la-lock"
+    title: "Updated Security"
+    content: "Securely share your data with your care provider and contacts"
+  - icon: "las la-magnet"
+    title: "Magnetic Turning"
+    content: "Segment your day in daily life events"
 
 
 # intro_video
@@ -66,12 +67,12 @@ how_it_works:
   enable: true
   block:
   - subtitle: "Primary Speciality"
-    title: "You Will Not miss Your All misunderstandings"
+    title: "Know yourself"
     description: "Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the."
     image: "images/features-01.png"
 
   - subtitle: "Secondary Speciality"
-    title: "Say hello to no-code The Advance Creation"
+    title: "Continuously updated view of health"
     description: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
     image: "images/features-02.png"
 

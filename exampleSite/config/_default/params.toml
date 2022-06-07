@@ -2,7 +2,7 @@
 # favicon
 favicon = "images/personicle-favicon.png"
 # logo
-logo = "images/personicle-logo-transparent.svg"
+logo = "images/personicle-logo-transparent.png"
 # use `x` with logo_width, example: "100x"
 logo_width = "240x"
 # logo text will only show when logo is missing.
