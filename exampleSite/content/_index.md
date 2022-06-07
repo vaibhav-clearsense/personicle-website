@@ -74,7 +74,7 @@ how_it_works:
   - subtitle: "Secondary Speciality"
     title: "Continuously updated view of health"
     description: "Users can securely share their data with physicians registered on the platform. Physicians can remotely and passively monitor their patients' health status and analyze their data from simple trend lines to sophisticated event pattern detection . "
-    image: "images/features-02.png"
+    image: "images/physician-dashboard-screenshot.png"
 
 
 # testimonials
@@ -87,34 +87,69 @@ testimonials:
   image_right: "images/testimonials-02.png"
   
   testimonials_quotes:
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
+  - quote: "Personicle: Personal Chronicle of Life Events"
+    name: "Very Large Databases (VLDB),  2014"
+    designation: "Hangzhou, China"
     image: "images/user-img/05-i.jpg"
 
-  - quote: "Conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
+  - quote: "From Multimedia Logs to Personal Chronicles"
+    name: "ACM International Conference on Multimedia, 2017"
+    designation: "Mountain View, USA"
     image: "images/user-img/06-i.jpg"
 
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
+  - quote: "Objective Self"
+    name: "IEEE Multimedia, 2014"
+    designation: ""
     image: "images/user-img/07-i.jpg"
 
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
+  - quote: "Multimodal food journalling"
+    name: "ACM Conference on Multimedia, 2018"
+    designation: "Seoul, South Korea"
     image: "images/user-img/08-i.jpg"
 
-  - quote: "Lorem ipsum dolor ame conseetur. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
+  - quote: "Assessing Mental Health in Emerging Adulthood through a Mental Health Navigator: A Study Protocol."
+    name: "JMIR Research Protocols, 2021"
+    designation: ""
     image: "images/user-img/09-i.jpg"
 
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue lectudbfs pellentesque vitae dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
+  - quote: "Health Multimedia: Lifestyle Recommendations Based on Diverse Observations"
+    name: "ACM International Conference on Multimedia Retrieval, 2017"
+    designation: "Bucharest, Romania"
+    image: "images/user-img/10-i.jpg"
+
+  - quote: "Personal Food Model"
+    name: "ACM International Conference on Multimedia, 2021"
+    designation: ""
+    image: "images/user-img/10-i.jpg"
+
+  - quote: "Cross-modal Health State Estimation"
+    name: "ACM International Conference on Multimedia, 2018"
+    designation: "Seoul, South Korea"
+    image: "images/user-img/10-i.jpg"
+
+  - quote: "Lifeblood of Health is Data"
+    name: "IEEE Multimedia, 2022"
+    designation: ""
+    image: "images/user-img/10-i.jpg"
+
+  - quote: "A Navigational Approach to Health: Actionable Guidance for Improved Quality of Life"
+    name: "IEEE Computer, 2019"
+    designation: ""
+    image: "images/user-img/10-i.jpg"
+
+  - quote: "Live personalized nutrition recommendation engine"
+    name: "ACM International Conference on Multimedia, 2017"
+    designation: "Mountain View, USA"
+    image: "images/user-img/10-i.jpg"
+
+  - quote: "Continuous Health Interface Event Retrieval"
+    name: "ACM International Conference on Multimedia Retrieval, 2020"
+    designation: ""
+    image: "images/user-img/10-i.jpg"
+
+  - quote: "Personalized User Modelling for Context-Aware Lifestyle Recommendations to Improve Sleep"
+    name: "ACM International Conference on Recommender Systems, 2020"
+    designation: ""
     image: "images/user-img/10-i.jpg"
 
 ---
