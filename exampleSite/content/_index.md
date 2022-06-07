@@ -38,15 +38,15 @@ features:
     title: "Updated Security"
     content: "Securely share your data with your care provider and contacts."
   - icon: "las la-magnet"
-    title: "Magnetic Turning"
-    content: "Segment your day in daily life events"
+    title: "Life event detection"
+    content: "Segment your day in daily life events using smart phone sensors"
   - icon: "las la-tachometer-alt"
     title: "Secured &amp; up-to-date data"
     content: "Access all your data in one place, passively collected and updated"
   
-  - icon: "las la-lock"
-    title: "Updated Security"
-    content: "Securely share your data with your care provider and contacts"
+  - icon: "las la-stethoscope"
+    title: "Continuous health monitoring"
+    content: "Providers get a continuous view of patient activities and health"
   - icon: "las la-magnet"
     title: "Magnetic Turning"
     content: "Segment your day in daily life events"
@@ -68,21 +68,21 @@ how_it_works:
   block:
   - subtitle: "Primary Speciality"
     title: "Know yourself"
-    description: "Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the."
-    image: "images/features-01.png"
+    description: "Personicle enables you to bring your lifestyle data from disparate and isolated sources to one location. This data can be aggregated and correlated to understand users' habits and how various lifestyle events affect their lives."
+    image: "images/personal-dashboard-rounded.png"
 
   - subtitle: "Secondary Speciality"
     title: "Continuously updated view of health"
-    description: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
+    description: "Users can securely share their data with physicians registered on the platform. Physicians can remotely and passively monitor their patients' health status and analyze their data from simple trend lines to sophisticated event pattern detection . "
     image: "images/features-02.png"
 
 
 # testimonials
 testimonials:   
   enable: true
-  subtitle: "Our Testimonials"
-  title: "Don't take our word for it"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  subtitle: "Publications"
+  title: "Personicle Research"
+  description: "Peer reviewed research publications about personicle and personal health navigation"
   image_left: "images/testimonials-01.png"
   image_right: "images/testimonials-02.png"
   
