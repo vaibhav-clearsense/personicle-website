@@ -69,7 +69,7 @@ our_team:
     designation: "Professor Emeritus, UC Irvine"
   - name: "Charles Boicey"
     image: "images/about/team/charles-boicey.jpeg"
-    designation: "Chief novation Officer, Clearsense"
+    designation: "Chief Innovation Officer, Clearsense"
   - name: "Vin Patel"
     image: "images/about/team/vin-patel.jpeg"
     designation: "VP Platform, Clearsense"
