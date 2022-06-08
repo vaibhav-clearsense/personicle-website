@@ -48,8 +48,8 @@ features:
     title: "Continuous health monitoring"
     content: "Providers get a continuous view of patient activities and health"
   - icon: "las la-magnet"
-    title: "Magnetic Turning"
-    content: "Segment your day in daily life events"
+    title: "Life event detection"
+    content: "Segment your day in daily life events using smart phone sensors"
 
 
 # intro_video
