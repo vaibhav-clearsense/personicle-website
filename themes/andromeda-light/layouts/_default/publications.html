@@ -1,0 +1,33 @@
+{{define "main"}}
+
+{{ partial "page-header.html" . }}
+
+{{with .Params.publications}}
+{{if .enable}}
+<section data-aos="fade-in">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12">
+      </div>
+
+
+      <div class="col-xl-12">
+        <div class="text-left px-0 px-md-5 mt-4">
+          <ol>
+            {{range .block}}
+            <p><li class="publication">{{ .authors }}. <b>{{ .quote }}.</b> In <i>{{ .name }}.</i> {{ .designation }}.</li></p>
+            <p>{{.content | markdownify}}</p>
+            {{end}}
+        
+
+          </ol>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+{{end}}
+{{end}}
+
+{{end}}
