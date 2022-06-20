@@ -1,11 +1,11 @@
 ---
-date: "2021-07-11"
-title: "Five eCommerce lessons to learn from Bloom & Wild"
+date: "2022-06-07"
+title: "Digital Twins: The Road to Personicle"
 image: "images/blog/04.jpg"
 author_info: 
-  name: "Abdullah Al Shifat"
-  image: "images/author/abdullah.jpg"
-draft: false
+  name: "Zara Ahmed"
+  image: "images/author/zara-ahmed.jpeg"
+draft: true
 ---
 
 Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget

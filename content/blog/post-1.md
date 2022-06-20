@@ -1,10 +1,10 @@
 ---
-date: "2021-07-14"
-title: "The Real Product From the Buyers improvements in Overflow basis."
+date: "2022-06-01"
+title: "Wearable Devices for Lifestyle and Medical Monitoring: Gaps in existing healthcare"
 image: "images/blog/01.jpg"
 author_info: 
-  name: "Abdullah Al Shifat"
-  image: "images/author/abdullah.jpg"
+  name: "Zara Ahmed"
+  image: "images/author/zara-ahmed.jpeg"
 draft: false
 ---
 
