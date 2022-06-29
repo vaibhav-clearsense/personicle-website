@@ -1,12 +1,13 @@
 {{ define "main" }}
 
 <!-- checking blog -->
-{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
+{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") (eq .Section "resources") (eq .Section "health-navigation") (eq .Section "platform-details") (eq .Section "open-source-guidelines") }}
 {{ partial "page-header.html" . }}
 
 <section class="section-sm" data-aos="fade-in">
   <div class="container-xxl">
     <div class="row justify-content-center">
+      {{ $paginator := .Paginate (.Pages) }}
     {{ $paginator := .Paginate (where site.RegularPages "Section" "in" site.Params.mainSections) }}
     {{ range $paginator.Pages }}
     <div class="col-lg-5">

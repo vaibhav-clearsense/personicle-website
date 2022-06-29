@@ -20,26 +20,42 @@ url = "publications/"
 weight = 4
 
 [[main]]
+name = "Resources"
+url = "resources/"
 weight = 5
-name = "Pages"
+
+[[main]]
+weight = 6
+name = "Resources"
 hasChildren = true
 
   [[main]]
-  parent = "Pages"
-  name = "Blog Details"
-  url = "blog/post-1/"
+  parent = "Resources"
+  name = "1. Health Navigation"
+  url = "health-navigation/"
   weight = 1
 
   [[main]]
-  parent = "Pages"
-  name = "Terms & Conditions"
-  url = "terms-and-conditions/"
-  weight = 7
+  parent = "Resources"
+  name = "2. Platform Details"
+  url = "platform-details/"
+  weight = 2
+
+  [[main]]
+  parent = "Resources"
+  name = "3. Open Source Guidelines"
+  url = "open-source-guidelines/"
+  weight = 3
+
+[[main]]
+name = "Terms & Conditions"
+url = "terms-and-conditions/"
+weight = 7
   
 [[main]]
 name = "Contact"
 url = "contact/"
-weight = 6
+weight = 8
 
 
 # footer menu
