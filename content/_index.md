@@ -7,7 +7,7 @@ draft: false
 banner:
   title: "Personicle: Leverage your data to improve your health"
   button: "Go to Personicle"
-  button_link: "https://personicle.herokuapp.com/"
+  button_link: "https://app.personicle.org"
   image: "images/device-integration-image.png"
 
 
