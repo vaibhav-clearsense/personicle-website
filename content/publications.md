@@ -3,7 +3,7 @@ title: "Publications"
 layout: "publications" 
 draft: false
 
-# what_we_do
+# publications
 publications:
   enable: true
   subtitle: "Our Publications"
