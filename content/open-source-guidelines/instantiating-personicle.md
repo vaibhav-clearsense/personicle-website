@@ -15,9 +15,10 @@ draft: false
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Introduction
-Personicle is a Mobile App which in its current form collects and processes the location, place, mobile device-specific measures like Calendar, Ambient Light, phone usage, and measures like Heart Rate, Activity Level, and Sleep from wearable devices like Fitbit or smartwatches. The first release uses Android phones and Fitbit devices; soon iOS and other smart wearables will be used. Currently, data is collected at every 5-minute interval to create activities and events, that may be used by health systems.
 
-Personalization requires precise personal models; however, every individual is unique.  The story of their life is comprised of events at various granularities in time and space. Personal chronicle, aka Personicle, captures this story through these events. Generally, for modeling a person, one requires five event streams: Daily Life Events, Personal Events, Personal Biological Events, Social Events related to the person, and Environmental Events around the person. 
+<p> Personicle is a Mobile App which in its current form collects and processes the location, place, mobile device-specific measures like Calendar, Ambient Light, phone usage, and measures like Heart Rate, Activity Level, and Sleep from wearable devices like Fitbit or smartwatches. The first release uses Android phones and Fitbit devices; soon iOS and other smart wearables will be used. Currently, data is collected at every 5-minute interval to create activities and events, that may be used by health systems.
+
+Personalization requires precise personal models; however, every individual is unique.  The story of their life is comprised of events at various granularities in time and space. Personal chronicle, aka Personicle, captures this story through these events. Generally, for modeling a person, one requires five event streams: Daily Life Events, Personal Events, Personal Biological Events, Social Events related to the person, and Environmental Events around the person. </p>
 
 > [Charles Boicey](https://www.linkedin.com/in/charlesboicey) and [Ramesh Jain](https://ngs.ics.uci.edu/) Quotes
 
