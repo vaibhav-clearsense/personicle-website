@@ -5,7 +5,7 @@ image: "images/how-external-applications-can-start-connecting-to-personicle.png"
 author_info: 
   name: "Zara Ahmed"
   image: "images/author/zara-ahmed.jpeg"
-draft: false
+draft: true
 ---
 
 #### _External Data Connections Repository: Setup and Usage Instructions_
